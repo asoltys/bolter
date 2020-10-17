@@ -1,4 +1,4 @@
-module github.com/hasit/bolter
+module github.com/asoltys/bolter
 
 go 1.13
 
